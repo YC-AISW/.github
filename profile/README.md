@@ -1,10 +1,10 @@
-# <img src="https://github.com/dnd-side-project/.github/blob/main/images/dnd-logo.png" width="30px" height="30px"> DND - Developer & Designer
+# <img src="https://github.com/YCsmartsw/.github/tree/main/images/yc_logo.png" width="30px" height="30px"> Department of Smart Software in Yonam Institute of Technology
 
-> 개발자와 디자이너를 위한 IT 연합 동아리 (For Developer & Designer) 공식 repository
+> 연암공과대학교 우수 개발자 · 디자이너 프로젝트 아카이브 (Official Portfolio Repository)
 
 <p align="center">
-  <a href="https://www.dnd.ac">
-    <img src="https://img.shields.io/badge/HomePage-dnd.ac-00D3F2?style=for-the-badge&link=https%3A%2F%2Fwww.dnd.ac" />
+  <a href="https://www.yc.ac.kr/smartsw/web/main/mainPage.do">
+    <img src="https://img.shields.io/badge/HomePage-YCsmartSW.ac-00D3F2?style=for-the-badge&link=https%3A%2F%2Fwww.dnd.ac" />
   </a>
 </p>
 
