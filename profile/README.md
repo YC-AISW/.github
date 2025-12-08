@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.yc.ac.kr/smartsw/web/main/mainPage.do">
-    <img src="https://img.shields.io/badge/HomePage-YCsmartSW.ac-D62B4A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/HomePage-YCsmartSW-D62B4A?style=for-the-badge" />
   </a>
 </p>
 
