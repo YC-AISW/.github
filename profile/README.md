@@ -1,5 +1,4 @@
-# <img src="../images/yc_logo.png" width="30" height="30"> Department of Smart Software in Yonam Institute of Technology
-
+# <img src="../images/yc_logo.png" width="30" height="30"> YC Smart Software
 
 > 연암공과대학교 우수 개발자 프로젝트 아카이브 (Official Portfolio Repository)
 
